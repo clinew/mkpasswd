@@ -1,0 +1,9 @@
+Shameless copy and splicing of the Debian "whois" package (v5.0.10) that parses
+out the code and header files needed to create a statically-linked binary of
+'mkpasswd'. Original author below:
+
+--------------------------------------------------------------------------------
+
+Marco d'Itri
+<md@linux.it>
+
